@@ -1,0 +1,42 @@
+#bg{
+    background-image : url(https://mblogthumb-phinf.pstatic.net/MjAxODA0MDZfMTI3/MDAxNTIzMDA0NTQ0MjA0.YhZnJykAnITB2MyoUEluRQSJZRINMnvJmeC2y01V5OAg.D1y7YvSEzvx7kJ77QdbTfzptR_e8w05YvtRFIlWjL4kg.PNG.jee6959/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.PNG?type=w800);
+    font-weight: bold;
+}
+#intro{
+    margin : 40px;
+    
+}
+
+.sex{
+    margin : 10px;
+}
+
+.lname{
+    margin : 10px;
+}
+
+.fname{
+    margin : 10px;
+}
+
+.num{
+margin : 10px;
+}
+
+.renum{
+margin : 10px;
+}
+
+.email{
+margin : 10px;
+}
+
+.back{
+margin : 10px;
+text-align: left;
+}
+
+.complete{
+margin : 10px;
+text-align: center;
+}
